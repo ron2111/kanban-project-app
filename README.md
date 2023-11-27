@@ -1,6 +1,6 @@
 # Kanban Board Project App 😎
 
-## Live Project: [Vercel Link](https://kanban-rs.vercel.app)
+## Live Project: [Netlify Link](https://kanban-rs.netlify.app/)
 
 ## Display: 
  - With priority, user & status based grouping
