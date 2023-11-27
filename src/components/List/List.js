@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./row-style.css";
-import Card from "../Card/card";
+import Card from "../Card/Card";
 
 let cardCount = 0;
 
